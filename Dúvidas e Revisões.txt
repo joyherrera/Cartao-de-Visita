@@ -1,0 +1,8 @@
+Dúvidas e Revisões
+
+Para adicionar uma div já o class, adicione div.o nome da class
+box-shadow para adicionar sombra.
+transform: rotate(deg) para rotacionar.
+translate3d( ) para trazer o 3d.
+transition: all determina a duração da transformação.
+ease-in-out suaviza a transformação.
